@@ -32,7 +32,7 @@ public class GCBConfig {
 				e.printStackTrace();
 			}
 			
-			Main.println(1, "[GCBConfig] Error while loading config file: " + e.getLocalizedMessage());
+			Main.println(1, "[GCBConfig] Error while ding config file: " + e.getLocalizedMessage());
 		}
 	}
 
